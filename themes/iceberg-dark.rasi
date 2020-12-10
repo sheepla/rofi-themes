@@ -196,6 +196,6 @@ prompt {
    background-color: @palette-bg2;
 }
 
-element-icon {
+#element-icon {
     size: 18;
 }
