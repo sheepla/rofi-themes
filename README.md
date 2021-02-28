@@ -30,6 +30,6 @@ Light version of iceberg theme.
 
 ## Installation
 
-1. Copy to `~/.config/rofi/themes/`
-2. select theme with `rofi-theme-selecter`. 
+1. Copy `./themes/*` to `~/.config/rofi/themes/`
+2. Launch `rofi-theme-selecter &` and select a theme what you want to set.
 3. `Alt-A` to accept a theme.
