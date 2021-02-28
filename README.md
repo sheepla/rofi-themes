@@ -1,6 +1,6 @@
 # rofi-themes
 
-Theme of rofi (window switcher / launcher)
+Simple theme of rofi (window switcher / launcher)
 
 ## Themes
 
@@ -20,7 +20,16 @@ Color palette by [iceberg.vim](https://github.com/cocopon/iceberg.vim) and [iceb
 
 Light version of iceberg theme.
 
+### Matcha Dark Sea
+
+<img src="./img/matcha-dark-sea.jpg" alt="matcha-dark-sea" style="zoom:50%;" />
+
+### Matcha Dark Aliz
+
+<img src="./img/matcha-dark-aliz.jpg" alt="matcha-dark-aliz" style="zoom:50%;" />
+
 ## Installation
 
-Copy to `~/.config/rofi/themes/`and select theme with `rofi-theme-selecter`. 
-`Alt-A` to accept a theme.
+1. Copy to `~/.config/rofi/themes/`
+2. select theme with `rofi-theme-selecter`. 
+3. `Alt-A` to accept a theme.
