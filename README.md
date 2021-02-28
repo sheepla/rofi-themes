@@ -1,6 +1,6 @@
 # rofi-themes
 
-Simple theme of rofi (window switcher / launcher)
+Simple themes for rofi (window switcher / launcher)
 
 ## Themes
 
