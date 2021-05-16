@@ -2,6 +2,12 @@
 
 <p align="center">Simple themes for rofi (window switcher / launcher)</p>
 
+<h2 align="center">Installation</h2>
+
+1. Copy `./themes/*` to `~/.config/rofi/themes/`
+2. Launch `rofi-theme-selecter &` and select a theme what you want to set.
+3. `Alt-A` to accept a theme.
+
 <h2 align="center">Themes</h2>
 
 ### Alter
@@ -28,8 +34,3 @@ Light version of iceberg theme.
 
 <img src="./img/matcha-dark-aliz.jpg" alt="matcha-dark-aliz" style="zoom:40%;" />
 
-<h2 align="center">Themes</h2>
-
-1. Copy `./themes/*` to `~/.config/rofi/themes/`
-2. Launch `rofi-theme-selecter &` and select a theme what you want to set.
-3. `Alt-A` to accept a theme.
