@@ -1,8 +1,8 @@
-# rofi-themes
+<h1 align="center">rofi-themes</h1>
 
-Simple themes for rofi (window switcher / launcher)
+<p align="center">Simple themes for rofi (window switcher / launcher)</p>
 
-## Themes
+<h2 align="center">Themes</h2>
 
 ### Alter
 
