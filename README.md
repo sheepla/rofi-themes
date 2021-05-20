@@ -4,7 +4,13 @@
 
 <h2 align="center">Installation</h2>
 
-1. Copy `./themes/*` to `~/.config/rofi/themes/`
+1. Clone or download this repository, then Copy `./themes/*` to `~/.config/rofi/themes/`.
+
+```bash
+git clone https://github.com/sheepla/rofi-themes.git
+cp rofi-themes/themes/* ~/.config/rofi/themes
+```
+
 2. Launch `rofi-theme-selecter &` and select a theme what you want to set.
 3. `Alt-A` to accept a theme.
 
