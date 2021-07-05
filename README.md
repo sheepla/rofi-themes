@@ -4,7 +4,7 @@
 
 Simple themes for [rofi](https://github.com/davatorium/rofi)
 
-</p>
+</div>
 
 <h2 align="center">Installation</h2>
 
