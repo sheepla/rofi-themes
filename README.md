@@ -1,6 +1,10 @@
 <h1 align="center">rofi-themes</h1>
 
-<p align="center">Simple themes for rofi (window switcher / launcher)</p>
+<div align="center">
+
+Simple themes for [rofi](https://github.com/davatorium/rofi)
+
+</p>
 
 <h2 align="center">Installation</h2>
 
@@ -11,7 +15,7 @@ git clone https://github.com/sheepla/rofi-themes.git
 cp rofi-themes/themes/* ~/.config/rofi/themes
 ```
 
-2. Launch `rofi-theme-selecter &` and select a theme what you want to set.
+2. Launch `rofi-theme-selector &` and select a theme what you want to set.
 3. `Alt-A` to accept a theme.
 
 <h2 align="center">Themes</h2>
